@@ -2,7 +2,7 @@ from random import randint
 def randlist(r,usedlist,done):
 	sum = 0
 	alpha = [ "A","b","B","c","C","d","G","H","I","J",
-				"k","L",]
+		"J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","and","Z"]
 	usedlist[r] = 1
 	c = alpha[r]
 	
