@@ -15,7 +15,7 @@ def randlist(r,usedlist,done):
 	
 def main():
 	# initial variables
-	used = [0,0,0,0,0,0]
+	used = [,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 	done = False #boolean
 	#####################
 	while done == False:
